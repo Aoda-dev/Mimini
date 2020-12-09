@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/mimini/static/css/main.e065287a.chunk.css",
+    "main.js": "/mimini/static/js/main.eff4e099.chunk.js",
+    "main.js.map": "/mimini/static/js/main.eff4e099.chunk.js.map",
+    "runtime-main.js": "/mimini/static/js/runtime-main.88b7bbca.js",
+    "runtime-main.js.map": "/mimini/static/js/runtime-main.88b7bbca.js.map",
+    "static/js/2.aba25020.chunk.js": "/mimini/static/js/2.aba25020.chunk.js",
+    "static/js/2.aba25020.chunk.js.map": "/mimini/static/js/2.aba25020.chunk.js.map",
+    "index.html": "/mimini/index.html",
+    "static/css/main.e065287a.chunk.css.map": "/mimini/static/css/main.e065287a.chunk.css.map",
+    "static/js/2.aba25020.chunk.js.LICENSE.txt": "/mimini/static/js/2.aba25020.chunk.js.LICENSE.txt",
+    "static/media/1.2c205e09.jpeg": "/mimini/static/media/1.2c205e09.jpeg",
+    "static/media/2.47f18b23.svg": "/mimini/static/media/2.47f18b23.svg",
+    "static/media/3.feb754da.jpeg": "/mimini/static/media/3.feb754da.jpeg",
+    "static/media/4.075f91c9.webp": "/mimini/static/media/4.075f91c9.webp",
+    "static/media/5.d7317c20.jpg": "/mimini/static/media/5.d7317c20.jpg",
+    "static/media/Home.css": "/mimini/static/media/background.058dde06.jpg",
+    "static/media/SignUp.css": "/mimini/static/media/background.66bd1b52.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.88b7bbca.js",
+    "static/js/2.aba25020.chunk.js",
+    "static/css/main.e065287a.chunk.css",
+    "static/js/main.eff4e099.chunk.js"
+  ]
+}
