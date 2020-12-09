@@ -1,5 +1,5 @@
 import React from 'react'
-import { BrowserRouter, Route } from 'react-router-dom'
+import { HashRouter as Router, Route } from 'react-router-dom'
 import { TransitionGroup, Transition } from 'react-transition-group'
 import { gsap } from 'gsap'
 
@@ -11,11 +11,12 @@ import './App.css'
 
 const App = () => {
   return (
-    <BrowserRouter>
+    <Router>
       <Header />
       <Route
         render={(props) => {
-          const { key } = props.location
+          // const { key } = props.location // для browser router
+          const key = props.location.pathname // для hasrouter
 
           return (
             <TransitionGroup component={null}>
@@ -45,7 +46,7 @@ const App = () => {
         }}
       />
       <Footer />
-    </BrowserRouter>
+    </Router>
   )
 }
 
