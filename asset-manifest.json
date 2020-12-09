@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/mimini/static/css/main.e065287a.chunk.css",
-    "main.js": "/mimini/static/js/main.eff4e099.chunk.js",
-    "main.js.map": "/mimini/static/js/main.eff4e099.chunk.js.map",
+    "main.js": "/mimini/static/js/main.f4c9afef.chunk.js",
+    "main.js.map": "/mimini/static/js/main.f4c9afef.chunk.js.map",
     "runtime-main.js": "/mimini/static/js/runtime-main.88b7bbca.js",
     "runtime-main.js.map": "/mimini/static/js/runtime-main.88b7bbca.js.map",
-    "static/js/2.aba25020.chunk.js": "/mimini/static/js/2.aba25020.chunk.js",
-    "static/js/2.aba25020.chunk.js.map": "/mimini/static/js/2.aba25020.chunk.js.map",
+    "static/js/2.cfc7bada.chunk.js": "/mimini/static/js/2.cfc7bada.chunk.js",
+    "static/js/2.cfc7bada.chunk.js.map": "/mimini/static/js/2.cfc7bada.chunk.js.map",
     "index.html": "/mimini/index.html",
     "static/css/main.e065287a.chunk.css.map": "/mimini/static/css/main.e065287a.chunk.css.map",
-    "static/js/2.aba25020.chunk.js.LICENSE.txt": "/mimini/static/js/2.aba25020.chunk.js.LICENSE.txt",
+    "static/js/2.cfc7bada.chunk.js.LICENSE.txt": "/mimini/static/js/2.cfc7bada.chunk.js.LICENSE.txt",
     "static/media/1.2c205e09.jpeg": "/mimini/static/media/1.2c205e09.jpeg",
     "static/media/2.47f18b23.svg": "/mimini/static/media/2.47f18b23.svg",
     "static/media/3.feb754da.jpeg": "/mimini/static/media/3.feb754da.jpeg",
@@ -20,8 +20,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.88b7bbca.js",
-    "static/js/2.aba25020.chunk.js",
+    "static/js/2.cfc7bada.chunk.js",
     "static/css/main.e065287a.chunk.css",
-    "static/js/main.eff4e099.chunk.js"
+    "static/js/main.f4c9afef.chunk.js"
   ]
 }
